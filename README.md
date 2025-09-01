@@ -1,32 +1,47 @@
-# HR-Analytics-Dashboard
-Power BI dashboard analyzing employee attrition, salary, age, and department trends
 # HR Analytics Dashboard (Power BI)
 
 ## 📊 Project Overview
-This project analyzes employee data (1413 records) using Power BI.  
-It highlights key HR insights such as attrition rate, salary distribution, and demographics.  
+This Power BI project focuses on **employee attrition analysis by salary slabs**.  
+The dashboard enables HR managers to explore attrition trends across different salary groups and gain insights into workforce retention patterns.
 
-## 🔑 Key Insights
-- Attrition Rate: **16.2%**  
-- Average Salary: **6.52K**  
-- Average Age: **36.9 years**  
-- Average Years at Company: **7.04**  
+---
 
-## 📈 Visualizations
-- Attrition by Education, Age, Gender, Department, Salary Slab  
-- Attrition trends across Job Roles and Years at Company  
+## 📂 Project Files
+- [📊 HR Analytics Dashboard (PDF)](pdf/Hr%20Analytics.pdf)  
+  *(Download the full dashboard in PDF format)*
+
+---
+
+## 📈 Dashboard Snapshots  
+Below are screenshots showing **attrition analysis by salary slabs**:
+
+### 🔹 Salary Slab: Up to 5K
+![Attrition Upto 5K](Hr/HR%20(1).png)
+
+### 🔹 Salary Slab: 5K – 10K
+![Attrition 5K-10K](Hr/HR%20(2).png)
+
+### 🔹 Salary Slab: 10K – 15K
+![Attrition 10K-15K](Hr/HR%20(3).png)
+
+### 🔹 Salary Slab: 15K+
+![Attrition 15K+](Hr/HR%20(4).png)
+
+### 🔹 Combined Salary Slab Analysis
+![Attrition Salary Summary](Hr/HR%20(5).png)
+
+---
 
 ## 🛠️ Tools Used
-- Power BI (Data Modeling, DAX, Visualization)
-- HR Analytics Dataset
+- **Power BI** (Data Modeling, DAX, Visualization)  
+- HR Analytics dataset  
 
-## 📂 Files
-- `Hr_Analytics_Dashboard.pbix` → Power BI file (if available)  
-- `Hr_Analytics_Dashboard.pdf` → Dashboard export (for preview)  
+---
 
 ## 🚀 How to Use
-1. Download the `.pbix` file.  
-2. Open in Power BI Desktop.  
-3. Explore the interactive dashboard.  
+1. Clone this repository.  
+2. Open the `.pbix` file in **Power BI Desktop** (if included).  
+3. Explore the interactive dashboard by filtering salary slabs.  
+4. Or view the summary directly in the [📊 PDF file](pdf/Hr%20Analytics.pdf).
 
 ---
